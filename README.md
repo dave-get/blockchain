@@ -1,6 +1,7 @@
-Block chain Assignment
+# Block chain Assignment
 
-Solidity 
-Name  ID Section 
+## Solidity
 
-Dawit Getachew Ugr/25715/14 1
+| Name | ID | Section |
+| :--- | :--- | :---: |
+| Dawit Getachew | Ugr/25715/14 | 1 |
