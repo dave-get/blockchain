@@ -1,0 +1,10 @@
+contract Contract {
+    address public owner;
+
+    constructor() {
+        owner = msg.sender;
+    }
+
+    receive() external payable {
+    }
+}
